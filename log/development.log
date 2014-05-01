@@ -13705,3 +13705,94 @@ Started GET "/assets/CodeGallery.png" for 127.0.0.1 at 2014-04-30 14:56:50 -0500
 
 
 Started GET "/assets/twitter/bootstrap/glyphicons-halflings.png" for 127.0.0.1 at 2014-04-30 14:56:50 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-01 12:10:34 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (9.7ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 119ms (Views: 109.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blogs.css?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/blogs.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/CodeGallery.png" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/glyphicons-halflings.png" for 127.0.0.1 at 2014-05-01 12:10:35 -0500
